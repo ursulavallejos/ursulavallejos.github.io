@@ -1,0 +1,47 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('../img/background.jpg'); /* Replace with your image path */
+    background-size: cover; /* Ensures the image covers the entire viewport */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-attachment: fixed; /* Keeps the image fixed when scrolling */
+}
+
+
+
+.hero-section {
+    height: 40vh;
+}
+
+.image1 {
+    height: 30vh;
+}
+
+.bg-transparent {
+    background-color: transparent
+}
+
+.justify-text {
+    text-align: justify;
+}
+
+.title-portfolio1 {
+    background-image: url("../img/thumbnail2switch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 650px;
+}
+
+.title-portfolio2 {
+    background-image: url("../img/thumbnail-modo-adulta.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 650px;
+}
+
+.logo-uv {
+    height: 50px;
+    width: 50px;
+}
